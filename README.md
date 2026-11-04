@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 🎓 Computer Engineering @ McGill University
 
-💻 Currently a Software Developer Intern at TCS Canada
+💻 Software Developer Intern at TCS Canada
 
 💡 Passionate about building solutions to everyday problems through software and AI
 
