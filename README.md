@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Arshneet Singh Kalra!
+## Hi there, I'm Arshneet 👋 
 
 <!--
 **arshneet-kalra/arshneet-kalra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
