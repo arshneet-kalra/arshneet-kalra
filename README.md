@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🎓 Computer Engineering @ McGill University
+
+💻 Currently a Software Developer Intern at TCS Canada
+
+💡 Passionate about building solutions to everyday problems through software and AI
+
+🚀 Currently exploring agentic AI and full-stack development
