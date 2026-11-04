@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 💡 Passionate about building solutions to everyday problems through software and AI
 
-🚀 Currently exploring agentic AI and full-stack development
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshneet-singh-kalra/)
